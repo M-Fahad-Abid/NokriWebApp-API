@@ -12,7 +12,9 @@ namespace NokriApp.Model
         public string email { get; set; }
         public string password { get; set; }
 
-       
+        public string user { get; set; }
+
+
 
     }
 }
